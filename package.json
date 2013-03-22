@@ -1,5 +1,5 @@
 {
-  "name": "JavaScript.js",
+  "name": "javascript.js",
   "version": "0.0.0",
   "description": "Compiles JavaScript to fucking JavaScript",
   "main": "lib/index.js",

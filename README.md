@@ -23,7 +23,7 @@ JavaScript.js is really fast. Actually, 10x faster than C. It also works in the 
 
 Our famous one-line installation:
 
-`npm install JavaScript.js`
+`npm install javascript.js`
 
 ## Example
 

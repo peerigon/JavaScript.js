@@ -4,7 +4,7 @@
 
 ## Synopsis
 
-### Wished you could just run JavaScript in the browser?
+### Wish you could just run JavaScript in the browser?
 
 Web development has been a pain in the ass lately. There are many technologies around, like CoffeeScript, Dart, TypeScript,
 LESS, SASS, etc. and things are getting more complicated everyday. And you just wanted to create your own little homepage - you fool!

@@ -1,1 +1,3 @@
-# JavaScript.js
+![JavaScriptjs Logo](https://raw.github.com/peerigon/JavaScript.js/master/gfx/Logo.png)
+
+Coming soon...

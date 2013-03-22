@@ -1,0 +1,37 @@
+{
+  "name": "JavaScript.js",
+  "version": "0.0.0",
+  "description": "Compiles JavaScript to fucking JavaScript",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peerigon/JavaScript.js.git"
+  },
+  "devDependencies": {
+    "mocha": "1.x",
+    "expect.js": "0.x"
+  },
+  "keywords": [
+    "JavaScript",
+    "compiler",
+    "tool",
+    "compilation",
+    "productivity",
+    "awesome",
+    "mighty",
+    "cool",
+    "blazing",
+    "fast",
+    "cloud"
+  ],
+  "author": "peerigon",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "99cff71684301d05338558c20d1200f1b778bb0a"
+}

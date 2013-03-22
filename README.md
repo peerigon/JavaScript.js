@@ -1,6 +1,6 @@
 ![JavaScriptjs Logo](https://raw.github.com/peerigon/JavaScript.js/master/gfx/Logo.png)
 
-*The next big thing from the guys behind of [FunctinoScript](https://github.com/meaku/FunctinoScript), [JSONPoo](https://github.com/jhnns/JSONPoo) and [halfSource](https://github.com/meaku/halfSource). Logo by [moritzjacobs](https://github.com/moritzjacobs).*
+*The next big thing from the guys behind [FunctinoScript](https://github.com/meaku/FunctinoScript), [JSONPoo](https://github.com/jhnns/JSONPoo) and [halfSource](https://github.com/meaku/halfSource). Logo by [moritzjacobs](https://github.com/moritzjacobs).*
 
 ## Synopsis
 

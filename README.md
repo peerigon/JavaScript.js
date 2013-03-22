@@ -35,7 +35,7 @@ Open `examples/hello-world.html` in your favorite browser. If you can read "Hell
 <head>
     <title>Hello World</title>
     <meta charset="utf-8"/>
-    <script src="./JavaScript.js/lib/index.js"></script>
+    <script src="../lib/index.js"></script>
 </head>
 <body>
     <script>

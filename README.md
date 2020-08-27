@@ -1,6 +1,6 @@
 ![JavaScriptjs Logo](https://raw.github.com/peerigon/JavaScript.js/master/gfx/Logo.png)
 
-*The next big thing from the guys behind [FunctinoScript](https://github.com/meaku/FunctinoScript), [JSONPoo](https://github.com/jhnns/JSONPoo) and [halfSource](https://github.com/meaku/halfSource). Logo by [moritzjacobs](https://github.com/moritzjacobs).*
+_The next big thing from the guys behind [FunctinoScript](https://github.com/meaku/FunctinoScript), [JSONPoo](https://github.com/jhnns/JSONPoo) and [halfSource](https://github.com/meaku/halfSource). Logo by [moritzjacobs](https://github.com/moritzjacobs)._
 
 ## Synopsis
 
@@ -32,16 +32,16 @@ Open `examples/hello-world.html` in your favorite browser. If you can read "Hell
 ```html
 <!DOCTYPE html>
 <html>
-<head>
+  <head>
     <title>Hello World</title>
-    <meta charset="utf-8"/>
+    <meta charset="utf-8" />
     <script src="../lib/index.js"></script>
-</head>
-<body>
+  </head>
+  <body>
     <script>
-        document.body.innerHTML = "Hello World!";
+      document.body.innerHTML = "Hello World!";
     </script>
-</body>
+  </body>
 </html>
 ```
 
@@ -50,3 +50,7 @@ If only web development was so much fun all the time.
 ## License
 
 MIT
+
+## Sponsors
+
+[<img src="https://assets.peerigon.com/peerigon/logo/peerigon-logo-flat-spinat.png" width="150" />](https://peerigon.com)
